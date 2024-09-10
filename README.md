@@ -11,30 +11,30 @@
 * **Revenue by Subscription Type:** Revenue distribution across different subscription tiers for each device.  
 * **Revenue by Country:** Top revenue-generating countries for each device.
 
-### **Summary of Insights**
+## **Summary of Insights**
 
 
-Device Revenue
+## Device Revenue
 
 **Revenue by Device Type:** Laptops lead with a revenue of $7810.14, followed closely by Tablets at $7782.17. Smart TVs ($7635.90) and Smartphones ($7459.29) are not far behind. This relatively even distribution suggests room to optimize marketing strategies across devices with only slight adjustments needed to maximize their unique strengths.
 
-Revenue by Age Group
+## Revenue by Age Group
 
 **Revenue Distribution by Age Group:** The 35-44 age group consistently drives the highest revenue across most devices, with standout figures such as $3439.70 for Laptops and $3167.83 for Smartphones. This group's prominent role emphasizes their importance as a key target for promotional efforts, particularly through personalized offers and age-specific content.
 
-Revenue by Gender
+## Revenue by Gender
 
 **Revenue Distribution by Gender:** Revenue distribution is balanced across genders, with Laptops generating $4056.71 from females and $3753.43 from males. Smart TVs also show a near balance with females slightly ahead at $3841.45 compared to $3794.45 for males. These close figures indicate that broad-based campaigns are effective, but minor gender-specific optimizations could further enhance engagement.
 
-Revenue by Subscription Type
+## Revenue by Subscription Type
 
 **Revenue Distribution by Subscription Type:** Premium subscriptions are the clear leaders in revenue, particularly for Laptops ($3523.08) and Smart TVs ($3436.12). These figures significantly outpace Standard and Basic tiers, underscoring the value of focusing on Premium. Targeting Standard subscribers with upgrade offers could further boost these high-tier revenues.
 
-Revenue by Country
+## Revenue by Country
 
 **Revenue Distribution by Country:** The United States and Spain are the top revenue contributors across devices, with Spain leading Smart TV revenue at $1861.74. The U.S. holds the highest Laptop revenue at $1830.79, showcasing strong market potential. Countries like Canada ($1183.70 for Smartphones) and France ($703.57 for Smart TVs) also contribute but with lower figures, suggesting targeted regional promotions could drive incremental growth
 
-**Recommendations/Next Steps**
+## **Recommendations/Next Steps**
 
 **Target High-Value Age Groups:** Focus marketing on the 35-44 age group, particularly for Laptops and Smartphones, which show the highest revenue contributions. Use age-tailored content and special promotions to engage this demographic more effectively.
 
