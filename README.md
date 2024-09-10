@@ -1,4 +1,4 @@
-**Netflix Revenue Analysis (2024)**
+## **Netflix Revenue Analysis (2024)**
 
 ---
 
