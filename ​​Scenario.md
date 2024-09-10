@@ -1,8 +1,5 @@
-# Revenue Impact of Device Usage Across Demographics
+# **Analysis of Revenue Impact Based on Device Usage Across Demographic Segments**
 
-## Stakeholder Request: The finance team is looking to assess how different devices contribute to overall revenue, particularly when considering demographic factors such as age and gender. They want to know if certain devices are driving higher revenue among specific user segments, and if there’s an opportunity to optimize device-related marketing or content strategies.
+**Stakeholder Objective:**
 
-## 
-
-## 
-
+The finance department has requested an in-depth analysis to evaluate how various devices contribute to the company’s overall revenue, with a focus on demographic factors such as age and gender. The primary aim is to identify whether specific devices are driving higher revenue within particular demographic groups. Furthermore, the team seeks to explore potential opportunities for optimising device-targeted marketing strategies and content delivery to maximise revenue generation within these user segments.
